@@ -46,7 +46,9 @@ Our improved training techniques are plugged into a variety of state-of-the-art 
 
 ## Reproduce Details
 
+Experimental details on L2O-DM and RNNProp are refer to this [README](https://github.com/Tianlong-Chen/L2O-Training-Techniques/blob/master/L2O-DM%20%26%20RNNProp/README.md).
 
+Experimental details on L2O-Scale are refer to this [README](https://github.com/Tianlong-Chen/L2O-Training-Techniques/blob/master/L2O-Scale/README.md).
 
 ## Citation
 
