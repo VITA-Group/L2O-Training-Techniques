@@ -4,7 +4,7 @@
 
 Code for this paper [Training Stronger Baselines for Learning to Optimize]().
 
-Tianlong Chen, Weiyi Zhang, Jingyang Zhou, Shiyu Chang, Sijia Liu, Lisa Amini, Zhangyang Wang
+Tianlong Chen*, Weiyi Zhang*, Jingyang Zhou, Shiyu Chang, Sijia Liu, Lisa Amini, Zhangyang Wang
 
 
 
