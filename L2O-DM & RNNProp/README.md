@@ -10,6 +10,8 @@
 
 - TensorFlow 1.14.0
 
+- sonnet 1.11 (pip install dm-sonnet=1.11)
+
 #### Train L2O-DM
 
 ```shell
